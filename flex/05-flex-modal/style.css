@@ -64,3 +64,26 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+.container {
+  padding: 15px;
+  display: flex;
+}
+
+.contwo {
+  margin-right: 15px;
+}
+
+.conthreeextra {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.header {
+  font-size: 20px;
+}
+
+.text {
+  margin-bottom: 15px;
+}
